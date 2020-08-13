@@ -1,0 +1,10 @@
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\bin\Debug\WindowsCalcuApp.exe.config
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\bin\Debug\WindowsCalcuApp.exe
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\bin\Debug\WindowsCalcuApp.pdb
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\obj\Debug\WindowsCalcuApp.csprojAssemblyReference.cache
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\obj\Debug\WindowsCalcuApp.Form1.resources
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\obj\Debug\WindowsCalcuApp.Properties.Resources.resources
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\obj\Debug\WindowsCalcuApp.csproj.GenerateResource.cache
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\obj\Debug\WindowsCalcuApp.csproj.CoreCompileInputs.cache
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\obj\Debug\WindowsCalcuApp.exe
+D:\Assignment\AssignmentCsharp11Aug\WindowsCalcuApp\WindowsCalcuApp\obj\Debug\WindowsCalcuApp.pdb
